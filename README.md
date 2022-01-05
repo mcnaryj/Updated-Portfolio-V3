@@ -3,10 +3,7 @@
 The purpose of this README is to explain the objective of the homework, and how it has been achieved:
 
 ## Updated Portfolio
-* Updated portfolio featuring Project 1 and two exemplary homework assignments.
-* Updated portfolio featuring Project 1 and two exemplary homework assignments.
-
-* Updated GitHub profile with pinned repositories featuring Project 1 and two exemplary assignments.
+* Updated portfolio featuring 3 examples of my work.
 
 * Updated resume
 
