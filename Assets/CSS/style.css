@@ -127,24 +127,24 @@ p {
 }
 
 
-.day-planner {
-    background: url('../images/WorkDay_Scheduler.png');
+.e-commerce {
+    background: url('../images/E-Commerce.png');
 }
 
-.quiz
+.note-taker
  {
-    background: url('../images/Multi_Choice_quiz.png');
+    background: url('../images/Note-Taker.png');
 }
 
-.forecast {
-    background: url('../images/Weather_Planner.png');
+.gentle-tilly {
+    background: url('../images/gentle-tilly.png');
 }
 
-.password-generator {
-    background: url('../images/Password_Generator.png');
+.employee-tracker {
+    background: url('../images/Employee-tracker.png');
 }
 
-.day-planner, .quiz, .forecast, .password-generator {
+.e-commerce, .note-taker, .gentle-tilly, .employee-tracker {
     display: inline-flex;
     flex-wrap: wrap;
     width:  25em;
@@ -159,7 +159,7 @@ p {
 
 }
 
-.marvellisms:hover, .day-planner:hover, .quiz:hover, .forecast:hover, .password-generator:hover {
+.marvellisms:hover, .e-commerce:hover, .note-taker:hover, .gentle-tilly:hover, .employee-tracker:hover {
     font-size: 100%;
     box-shadow: 0 0 10px #000 inset;
 }
@@ -197,7 +197,7 @@ p {
   
 /* added a couple media queries to make the screen display better on smaller screens. */
   @media screen and (max-width: 768px) {
-    .day-planner, .quiz, .forecast, .password-generator, .marvellisms {
+    .e-commerce, .note-taker, .gentle-tilly, .employee-tracker, .marvellisms {
         flex: .5 0 200;
         width:  50vh;
         height: 50vh;
