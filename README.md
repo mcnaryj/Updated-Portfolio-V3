@@ -3,10 +3,7 @@
 The purpose of this README is to explain the objective of the homework, and how it has been achieved:
 
 ## Updated Portfolio
-* Updated portfolio featuring Project 1 and two exemplary homework assignments.
-* Updated portfolio featuring Project 1 and two exemplary homework assignments.
-
-* Updated GitHub profile with pinned repositories featuring Project 1 and two exemplary assignments.
+* Updated portfolio featuring 3 examples of my work.
 
 * Updated resume
 
@@ -15,7 +12,7 @@ The purpose of this README is to explain the objective of the homework, and how 
 
 ## Installation/Viewing the Files
 
-Download the files contained in the Homework-8 repository, either through Github or by making a clone of the repository and downloading it locally. Once downloaded, open the file index.html to view the webpage. The published site can be found here: https://mcnaryj.github.io/McNary-Homework-8/.
+Download the files contained in the Homework-8 repository, either through Github or by making a clone of the repository and downloading it locally. Once downloaded, open the file index.html to view the webpage. The published site can be found here: https://mcnaryj.github.io/Updated-Portfolio-V3/.
 
 ## Acceptance Criteria
 (Taken from the initial readme)
