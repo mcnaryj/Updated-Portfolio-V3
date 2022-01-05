@@ -38,12 +38,9 @@ Download the files contained in the Homework-8 repository, either through Github
 ## Mock-Up
 
 The below animation demonstrates the appearance and functionality of the portfolio:
- ![A user can click each activity or link, all of which lead to their desired targets.](./Assets/images/Homework-8-demo.gif)
+ ![A user can click each activity or link, all of which lead to their desired targets.](./Assets/images/Updated-Portfolio-V3-demo.gif)
 
-## Notes
-
-This was a good one to refresh on everything. I was able to remove a ton of code that was not doing anything, and clean up the content so it was less buggy/ugly to look at. Obviously I could have done more with this, but I was focused on completing the main tasks, and I prefer a dryer-style of presentation for my resume as it is, so I'm going to keep with that theme here.
 
 ## Contributing
-I will be providing the url for the site via the GitHub repository, and it can also be found here: https://mcnaryj.github.io/Homework-8/ however any pull requests are welcome. 
+I will be providing the url for the site via the GitHub repository, and it can also be found here: https://github.com/mcnaryj/Updated-Portfolio-V3 however any pull requests are welcome. 
 
